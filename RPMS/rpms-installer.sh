@@ -1,10 +1,10 @@
 #/bin/bash
 
-# glog
-rpm -ivh glog-*
-
 # gflags
 rpm -ivh gflags-*
+
+# glog
+rpm -ivh glog-*
 
 # protobuf
 rpm -ivh protobuf-*
