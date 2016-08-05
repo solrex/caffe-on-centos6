@@ -4,7 +4,7 @@ Root User
 
     git clone https://github.com/solrex/caffe-on-centos6.git
     cd caffe-on-centos6
-    install-deps.sh
+    ./install-deps.sh
 
 Normal User:
 
